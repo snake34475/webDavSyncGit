@@ -1,0 +1,21 @@
+{
+  "name": "webDavSyncGit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdav": "3",
+    "webdav-client": "^1.4.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.82.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
